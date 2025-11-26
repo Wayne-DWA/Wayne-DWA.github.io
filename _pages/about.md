@@ -15,7 +15,7 @@ Alongside my doctoral studies I
 
 * work as a **Research Assistant** at JMU, supervising undergraduate thesis projects,  
 * have led the **AutonOhm** software team, winners at the RoboCup German Open Rescue 2021 and 2022 and 4 ᵗʰ place in Industrial @ Work 2023,  
-* and served as as a **Software Developer** at **Evocortex GmbH** from 2020 to 2024, delivering perception and autonomy stacks for next-generation AMRs and UAVs.
+* and worked as a **Software Developer** at **Evocortex GmbH** from 2020 to 2024, delivering perception and autonomy stacks for next-generation AMRs and UAVs.
 
 
 News
