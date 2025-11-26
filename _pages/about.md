@@ -32,6 +32,33 @@ Recent researches
 <table width="100%" align="center" border="0" cellspacing="0" cellpadding="20" >
     <tr onmouseout="nice_stop()" onmouseover="nice_start()">  
       <td width="25%">
+        <div class="one"> <img src="/images/DynamicICP/intro.jpg" width="300" height="120"></div>    </td>
+      <td valign="top" width="75%">
+            <papertitle>
+              <a href="https://github.com/JMUWRobotics/Dynamic-ICP"><strong>Dynamic-ICP: Doppler-Aware Iterative Closest Point Registration for
+              Dynamic Scenes</strong></a>
+            </papertitle>
+      <br>
+          <strong>Dong Wang</strong>,
+          Daniel Casado Herraez,
+          <a href="https://www.th-nuernberg.de/person/may-stefan/">Stefan May</a>,
+          <a href="https://www.informatik.uni-wuerzburg.de/space/mitarbeiter/nuechter/">Andreas Nuchter</a>
+      <br>
+          <em>under review (<strong>arxiv</strong>)</em>, 2025
+      <br>
+        <a href="https://arxiv.org/abs/2511.20292">paper</a> |
+        <a href="https://github.com/JMUWRobotics/Dynamic-ICP">website</a> |
+        <a href="https://github.com/JMUWRobotics/Dynamic-ICP">code</a> |
+        <a href="https://robotik.informatik.uni-wuerzburg.de/telematics/3dscans/">dataset</a>
+        <p></p>
+        We introduce Dynamic-ICP, a Doppler-aware registration framework. The method (i) estimates ego motion from per-point Doppler velocity via robust regression and builds a velocity filter, (ii) clusters dynamic objects and reconstructs object-wise translational velocities from ego-compensated radial measurements, (iii) predicts dynamic points with a constant-velocity model, and (iv) aligns scans using a compact objective that combines point-to-plane geometry residual with a translation-invariant, rotation-only Doppler residual.
+        <p></p>
+      </td>
+    </tr>
+</table> 
+<table width="100%" align="center" border="0" cellspacing="0" cellpadding="20" >
+    <tr onmouseout="nice_stop()" onmouseover="nice_start()">  
+      <td width="25%">
         <div class="one"> <img src="/images/DopplerSLAM/intro_doppler_slam.png" width="300" height="120"></div>    </td>
       <td valign="top" width="75%">
             <papertitle>
