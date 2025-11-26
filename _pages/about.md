@@ -14,12 +14,14 @@ I hold an **M.Sc. in Robotics** from Friedrich-Alexander-Universität Erlangen-N
 Alongside my doctoral studies I
 
 * work as a **Research Assistant** at JMU, supervising undergraduate thesis projects,  
-* lead the **AutonOhm** software team, winners at the RoboCup German Open Rescue 2021 and 2022 and 4 ᵗʰ place in Industrial @ Work 2023,  
-* and serve as a **Software Developer** at **Evocortex GmbH** from 2020 to 2024, delivering perception and autonomy stacks for next-generation AMRs and UAVs.
+* have led the **AutonOhm** software team, winners at the RoboCup German Open Rescue 2021 and 2022 and 4 ᵗʰ place in Industrial @ Work 2023,  
+* and served as as a **Software Developer** at **Evocortex GmbH** from 2020 to 2024, delivering perception and autonomy stacks for next-generation AMRs and UAVs.
 
 
 News
 ======
+- I am delighted to have received the 2025 BayWiss Prize for "Outstanding or pioneering research achievements in the respective scientific field" in Bavaria, Germany, on October 17, 2025.
+
 - I registered for IROS 2025. See you in Hangzhou!
 
 - "*Doppler-SLAM*" was accepted to **RA-L 2025** (July, 2025)
