@@ -20,13 +20,13 @@ Alongside my doctoral studies I
 
 News
 ======
-- I am delighted to have received the 2025 BayWiss Prize for "Outstanding or pioneering research achievements in the respective scientific field" in Bavaria, Germany, on October 17, 2025.
+- I am delighted to have received the **2025 BayWiss Prize** for “Outstanding or pioneering research achievements in the respective scientific field” in Bavaria, Germany. *([Link](https://www.baywiss.de/strategie-vernetzung/rueckblick-jahreskolloquium-2025), October 2025)*  
 
 - I registered for IROS 2025. See you in Hangzhou!
 
-- "*Doppler-SLAM*" was accepted to **RA-L 2025** (July, 2025)
+- "*Doppler-SLAM*" was accepted to **RA-L 2025** *(July 2025)*
 
-- "*RaI-SLAM*" was accepted to **RA-L 2025** (March, 2025)
+- "*RaI-SLAM*" was accepted to **RA-L 2025** *(March 2025)*
 
 
 Recent researches

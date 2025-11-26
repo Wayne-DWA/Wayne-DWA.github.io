@@ -229,7 +229,9 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
-
+  albums:                 
+    output: true
+    permalink: /photos/:title
 
 # These settings control how pages and collections are included in the site
 defaults:
@@ -284,6 +286,14 @@ defaults:
       type: talks
     values:
       layout: talk
+      author_profile: true
+      share: true
+  # _albums
+  - scope:
+      path: ""
+      type: albums
+    values:
+      layout: single
       author_profile: true
       share: true
 
