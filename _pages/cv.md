@@ -20,7 +20,7 @@ Work experience
 ======
 * Spring 2024 – Present: Research Assistant
   * Julius‑Maximilians‑University Würzburg
-  * Research on 3‑D SLAM based on sensor fusion for mobile robots
+  * Research on 3D SLAM based on sensor fusion for mobile robots
   * Supervisor: Prof. Dr. Andreas Nüchter
 
 * Dec 2020 – Aug 2024: Software Developer
@@ -74,6 +74,6 @@ Teaching
   
 Service and leadership
 ======
-* AutonOhm software team leader, RoboCup competitions (2021–Present)
+* AutonOhm software team leader, RoboCup competitions (2021–2025)
 * Mentor for Chinese students coming to study in Germany
 * Reviewer for IEEE TR-O, RA‑L, CASE, IROS (since 2023)
