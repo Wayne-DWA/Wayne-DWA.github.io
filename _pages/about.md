@@ -24,8 +24,6 @@ News
 
 - I have registered for ICRA 2026, where I will be presenting a talk on Doppler SLAM. See you in Vienna!
 
-- Our work "*Multi-Session Mapping and Long-Term Localization for Autonomous Vehicles Using Radar*" was accepted to **RA-L 2026** *(January 2026)*
-
 - Our new work "Multi-Session Mapping and Long-Term Localization for Autonomous Vehicles Using Radar" was accepted for publication in the IEEE Robotics and Automation Letters (**RA-L 2025**)! *(Dec. 2025)*
 
 - I am delighted to have received the **2025 BayWiss Prize** for “Outstanding or pioneering research achievements in the respective scientific field” in Bavaria, Germany. *([Link](https://www.baywiss.de/news-und-termine/news-detail/baywiss-preis-2025-fuer-eine-herausragende-oder-zukunftsweisende-forschungsleistung-im-jeweiligen-wissenschaftsbereich), October 2025)*  
