@@ -20,6 +20,10 @@ Alongside my doctoral studies I
 
 News
 ======
+- I am currently co-founding [**Harsher**](https://www.harsher.de), a startup developing radar-first perception, localization, and safety systems for heavy machinery and outdoor service robots operating in harsh environments. 
+
+- Our paper *"Edge Radar Material Classification Under Geometry Shifts"* has been accepted for presentation at the **ICRA 2026 Workshop on Long-term Deployments in the Wild (LoWi 2026)**. The paper will be presented by **Jannik Hohmann** at the workshop. *(April 2026)*
+
 - "*Dynamic-ICP*" was accepted to **RA-L 2026** *(February 2026)*
 
 - I have registered for ICRA 2026, where I will be presenting a talk on Doppler SLAM. See you in Vienna!
