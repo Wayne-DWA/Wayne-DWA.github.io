@@ -22,7 +22,7 @@ My research and engineering experience includes:
 
 News
 ======
-- **November 2026** — My project *Reliability-Aware Multimodal SLAM for Long-Term Autonomy in Harsh Environments* has received approximately **€230,000 in DFG funding**. The two-year project starts on **January 1, 2027**, in collaboration with **Technische Hochschule Nürnberg Georg Simon Ohm**, and will investigate reliable robot navigation under challenging sensing conditions. [University press release](https://idw-online.de/de/news880998)
+- **November 2026** — My project *Reliability-Aware Multimodal SLAM for Long-Term Autonomy in Harsh Environments* has received approximately **€230,000 in DFG funding**. The two-year project starts on **January 1, 2027**, in collaboration with **Technische Hochschule Nürnberg Georg Simon Ohm**, and will investigate reliable robot navigation under challenging sensing conditions. [University press release](https://www.uni-wuerzburg.de/aktuelles/einblick/single/news/roboter-navigation/)
 
 - **July 2026** — I successfully defended my doctoral dissertation, *Doppler-Aided Localization and Mapping for Autonomous Systems*, on **July 31**, graduating with **summa cum laude**. Many thanks to my supervisors and collaborators for their support throughout this journey. [JMU announcement](https://www.informatik.uni-wuerzburg.de/en/robotics/news/detail/news/dong-wang-successfully-completes-his-phd/)
 
