@@ -7,39 +7,41 @@ redirect_from:
   - /about.html
 ---
 
-Hi — I’m **Dong Wang (王东)**, a Ph.D. candidate in Robotics at **Julius-Maximilians-University Würzburg (JMU)**, supervised by [Prof. Dr. Andreas Nüchter](https://www.informatik.uni-wuerzburg.de/robotics/team/nuechter/) and [Prof. Dr. Stefan May](https://www.th-nuernberg.de/person/may-stefan/). My research focuses on **SLAM and Spatial AI**. I work on **Multimodal Perception** (LiDAR, radar, cameras, IMUs, ultrasound) that enable mobile robots to localize and map reliably in the exteme, dynamic conditions of the real world.
+Hi — I’m **Dong Wang (王东)**, a robotics researcher at **Julius-Maximilians-Universität Würzburg (JMU)** and co-founder of [**Harsher**](https://www.harsher.de). My research focuses on **SLAM and Spatial AI**, with an emphasis on **Doppler-aided localization, 4D radar, and multimodal perception** for reliable autonomy in harsh and dynamic environments.
+
+I completed my **Ph.D. in Robotics at JMU in July 2026**, graduating with **summa cum laude**. My dissertation, *Doppler-Aided Localization and Mapping for Autonomous Systems*, was supervised by [Prof. Dr. Andreas Nüchter](https://www.informatik.uni-wuerzburg.de/robotics/team/nuechter/) and [Prof. Dr. Stefan May](https://www.th-nuernberg.de/person/may-stefan/).
 
 I hold an **M.Sc. in Robotics** from Friedrich-Alexander-Universität Erlangen-Nürnberg, where I devised a 3D pathplanning framework for multi-UAV systems, and a joint **B.Sc.and B.Eng. in Mechatronics** from Tongji University and the Nuremberg Institute of Technology.
 
-Alongside my doctoral studies I
+My research and engineering experience includes:
 
-* work as a **Research Associate** at JMU, supervising undergraduate thesis projects,  
-* have led the **AutonOhm** software team, winners at the RoboCup German Open Rescue 2021 and 2022 and 4 ᵗʰ place in Industrial @ Work 2023,  
-* and worked as a **Software Developer** at **Evocortex GmbH** from 2020 to 2024, delivering perception and autonomy stacks for next-generation AMRs and UAVs.
+* working as a **Research Associate** at JMU and supervising undergraduate thesis projects,
+* leading the **AutonOhm** software team, winners at the RoboCup German Open Rescue 2021 and 2022 and 4th place in Industrial @ Work 2023,
+* working as a **Software Developer** at **Evocortex GmbH** from 2020 to 2024, delivering perception and autonomy stacks for next-generation AMRs and UAVs.
 
 
 News
 ======
-- I am currently co-founding [**Harsher**](https://www.harsher.de), a startup developing radar-first perception, localization, and safety systems for heavy machinery and outdoor service robots operating in harsh environments. 
+- **November 2026** — My project *Reliability-Aware Multimodal SLAM for Long-Term Autonomy in Harsh Environments* has received approximately **€230,000 in DFG funding**. The two-year project starts on **January 1, 2027**, in collaboration with **Technische Hochschule Nürnberg Georg Simon Ohm**, and will investigate reliable robot navigation under challenging sensing conditions. [University press release](https://idw-online.de/de/news880998)
 
-- Our paper *"Edge Radar Material Classification Under Geometry Shifts"* has been accepted for presentation at the **ICRA 2026 Workshop on Long-term Deployments in the Wild (LoWi 2026)**. The paper will be presented by **Jannik Hohmann** at the workshop. *(April 2026)*
+- **July 2026** — I successfully defended my doctoral dissertation, *Doppler-Aided Localization and Mapping for Autonomous Systems*, on **July 31**, graduating with **summa cum laude**. Many thanks to my supervisors and collaborators for their support throughout this journey. [JMU announcement](https://www.informatik.uni-wuerzburg.de/en/robotics/news/detail/news/dong-wang-successfully-completes-his-phd/)
 
-- "*Dynamic-ICP*" was accepted to **RA-L 2026** *(February 2026)*
+- I am a co-founder of [**Harsher**](https://www.harsher.de), a startup developing radar-first perception, localization, and safety systems for heavy machinery and outdoor service robots operating in harsh environments.
 
-- I have registered for ICRA 2026, where I will be presenting a talk on Doppler SLAM. See you in Vienna!
+- **April 2026** — Our paper *[Edge Radar Material Classification Under Geometry Shifts](https://arxiv.org/abs/2603.23342)* was accepted for presentation at the **ICRA 2026 Workshop on Long-term Deployments in the Wild (LoWi 2026)**, with **Jannik Hohmann** as the scheduled presenter.
 
-- Our new work "Multi-Session Mapping and Long-Term Localization for Autonomous Vehicles Using Radar" was accepted for publication in the IEEE Robotics and Automation Letters (**RA-L 2025**)! *(Dec. 2025)*
+- **February 2026** — *[Dynamic-ICP: Doppler-Aware Iterative Closest Point Registration for Dynamic Scenes](https://arxiv.org/abs/2511.20292)* was accepted to **IEEE Robotics and Automation Letters (RA-L)**. [Code](https://github.com/JMUWRobotics/Dynamic-ICP)
 
-- I am delighted to have received the **2025 BayWiss Prize** for “Outstanding or pioneering research achievements in the respective scientific field” in Bavaria, Germany. *([Link](https://www.baywiss.de/news-und-termine/news-detail/baywiss-preis-2025-fuer-eine-herausragende-oder-zukunftsweisende-forschungsleistung-im-jeweiligen-wissenschaftsbereich), October 2025)*  
+- **December 2025** — Our work *[Multi-Session Mapping and Long-Term Localization for Autonomous Vehicles Using Radar](https://ieeexplore.ieee.org/abstract/document/11346986)* was accepted to **IEEE Robotics and Automation Letters (RA-L)** and appears in the **2026** volume.
 
-- I registered for IROS 2025. See you in Hangzhou!
+- **October 2025** — I received the **2025 BayWISS Prize** for outstanding or pioneering research achievements. [Announcement](https://www.baywiss.de/news-und-termine/news-detail/baywiss-preis-2025-fuer-eine-herausragende-oder-zukunftsweisende-forschungsleistung-im-jeweiligen-wissenschaftsbereich)
 
-- ""*Doppler-SLAM*" was accepted by **RA-L 2025** *(July 2025)*
+- **July 2025** — *[Doppler-SLAM](https://arxiv.org/abs/2504.11634)* was accepted to **IEEE Robotics and Automation Letters (RA-L)**.
 
-- "*RaI-SLAM*" was accepted by **RA-L 2025** *(March 2025)*
+- **March 2025** — *[RaI-SLAM](https://ieeexplore.ieee.org/abstract/document/10947322)* was accepted to **IEEE Robotics and Automation Letters (RA-L)**.
 
 
-Recent researches
+Recent Research
 ======
 <table width="100%" align="center" border="0" cellspacing="0" cellpadding="20" >
     <tr onmouseout="nice_stop()" onmouseover="nice_start()">  
@@ -151,4 +153,4 @@ Recent researches
         <p></p>
       </td>
     </tr>
-</table> 
+</table>
